@@ -1,0 +1,2 @@
+# persoenlich
+fuer eigenen Code
